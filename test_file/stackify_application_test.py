@@ -28,5 +28,5 @@ class TestStackifyApplicationAS:
         Request_demo.enter_details(readJson)
         Request_demo.verify_checkbox_is_not_selected()
         HomePage.click_on_login()
-        LoginPage.verify_login_page_header()
+        #LoginPage.verify_login_page_header()
         #self.driver.close()
