@@ -2,4 +2,3 @@ pytest
 pytest-html
 allure-pytest
 selenium
-json
