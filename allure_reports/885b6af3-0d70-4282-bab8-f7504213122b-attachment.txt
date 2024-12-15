@@ -1,0 +1,22 @@
+initiating chrome driver
+Stackify Application is launched Successfully
+Logo Is Displayed In Application
+Current Url launched : https://stackify.com/
+Current Url Is As Expected
+Current Url launched : Application Performance Monitoring Tools For Developers
+Current Title Is As Expected
+All Header Menu Items Are Displayed As Expected
+.NET
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), '.NET')]
+Java
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Java')]
+PHP
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'PHP')]
+Node.js
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Node.js')]
+Ruby
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Ruby')]
+Python
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Python')]
+[True, True, True, True, True, True]
+All Contents Under Languages are Displayed As Expected

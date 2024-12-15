@@ -1,0 +1,30 @@
+initiating chrome driver
+Stackify Application is launched Successfully
+Logo Is Displayed In Application
+Current Url launched : https://stackify.com/
+Current Url Is As Expected
+Current Url launched : Application Performance Monitoring Tools For Developers
+Current Title Is As Expected
+All Header Menu Items Are Displayed As Expected
+.NET
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), '.NET')]
+Java
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Java')]
+PHP
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'PHP')]
+Node.js
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Node.js')]
+Ruby
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Ruby')]
+Python
+//li[contains(@class, 'menu-item-has-children') and .//span[contains(text(), 'By Language')]]//ul[contains(@class, 'mega-menu__category-links')]//a[contains(text(), 'Python')]
+[True, True, True, True, True, True]
+All Contents Under Languages are Displayed As Expected
+Current Url launched : https://stackify.com/retrace-apm-ruby/
+Current Url Has Ruby Text As Expected
+'lightweight profiling' is in bold under text content retrace uses
+'review our docs' is hyperlinked in footer text
+Retrace contents are displayed as expected in Ruby page
+Start a train and request demo button is displayed at the bottom of the ruby page
+Request a demo button is clicked
+Enter input error message is diplayed for inpur fields : 9

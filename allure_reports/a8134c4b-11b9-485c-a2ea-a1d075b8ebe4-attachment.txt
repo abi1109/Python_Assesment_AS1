@@ -1,0 +1,31 @@
+initiating chrome driver
+Stackify Application is launched Successfully
+Logo Is Displayed In Application
+Current Url launched : https://stackify.com/
+Current Url Is As Expected
+Current Url launched : Application Performance Monitoring Tools For Developers
+Current Title Is As Expected
+All Header Menu Items Are Displayed As Expected
+
+Application Performance Monitoring
+Centralized Logging
+Full Transaction Tracing
+Error Tracking
+Application & Server Monitoring
+Real User Monitoring
+Deployment Tracking
+
+For SI's, MSP's and ADM
+For Developers
+For DevOps
+
+Azure Monitoring
+AWS Monitoring
+Compatibility
+
+.NET
+Java
+PHP
+Node.js
+Ruby
+Python

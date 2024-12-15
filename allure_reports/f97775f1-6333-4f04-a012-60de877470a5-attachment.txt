@@ -1,0 +1,21 @@
+initiating chrome driver
+Stackify Application is launched Successfully
+Logo Is Displayed In Application
+Current Url launched : https://stackify.com/
+Current Url Is As Expected
+Current Url launched : Application Performance Monitoring Tools For Developers
+Current Title Is As Expected
+All Header Menu Items Are Displayed As Expected
+.NET
+//a[contains(text(), 'Solutions')]
+Java
+//a[contains(text(), 'Solutions')]
+PHP
+//a[contains(text(), 'Solutions')]
+Node.js
+//a[contains(text(), 'Solutions')]
+Ruby
+//a[contains(text(), 'Solutions')]
+Python
+//a[contains(text(), 'Solutions')]
+All Contents Under Languages are Displayed As Expected
